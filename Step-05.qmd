@@ -1,0 +1,104 @@
+---
+title: "Comparing"
+subtitle: "The right tool for the job"
+date: 2026-02-23
+date-modified: last-modified
+author:
+  - name: Andy Corrigan
+    orcid: 0000-0002-3896-2489
+    email: cudl@lib.cam.ac.uk
+    url: https://www.cdh.cam.ac.uk/about/people/andy-corrigan/
+license: "CC BY-NC 4.0"
+bibliography: references.bib
+format:
+  pdf: default
+  html: default
+---
+![](images/Labyriiinth-300x300.png){fig-alt="The Labyriiinth Icon"}  
+
+## Learning Objective
+
+Evaluate different IIIF tools in order to know how to identify the right tools to use.  
+
+::: {.callout-note collapse="true"}
+
+## Key Tools and Concepts
+Comparison tools, IIIF Manifest, Mirador Viewer, Compariscope, Allmaps
+
+:::
+
+## Summary
+
+tools ,.. 
+
+## Side-by-Side [Mirador]
+
+```{=html}
+<iframe width="100%" height="500" src="https://projectmirador.org/demo/" title="Mirador Viewer Demo"></iframe>
+```
+::: {.callout-tip collapse="true"}
+## **Exercise**
+
+Add these two resources to the Mirador Viewer:
+ʻAjāʼib al-makhlūqāt (MS Nn.3.74)
+https://cudl.lib.cam.ac.uk//iiif/MS-NN-00003-00074
+
+Nuremberg Chronicle (Inc.0.A.7.2[888])
+https://cudl.lib.cam.ac.uk//iiif/PR-INC-00000-A-00007-00002-00888 
+
+Turn thumbnail strip on...
+
+On the first, find page '13r'
+On the second, find page '5v'
+
+Note one similarity, and one difference. 
+
+Take a screenshot.
+
+:::
+
+## Layered [Compariscope]
+
+```{=html}
+<iframe width="100%" height="600" src="https://vanda.github.io/iiif-features/compariscope.html?manifest=img/" title="The V&A Compariscope"></iframe>
+```
+::: {.callout-tip collapse="true"}
+## Exercise
+
+Images to add:
+1. https://images.lib.cam.ac.uk/iiif/MS-VANNECK-BOX-00005-A-FOLIO-00001-000-00005.jp2/full/full/0/default.jpg
+
+2. https://images.lib.cam.ac.uk/iiif/MS-VANNECK-BOX-00005-A-FOLIO-00001-000-00008.jp2/full/full/0/default.jpg
+
+3. https://images.lib.cam.ac.uk/iiif/MS-VANNECK-BOX-00005-A-FOLIO-00001-000-00010.jp2/full/full/0/default.jpg 
+
+:::
+
+## Geo-Spatial [Allmaps]
+
+Next, your going to try geo-referencing a map so that you can compare it to current mapping data.
+
+Tool called [Allmaps](https://editor.allmaps.org/)
+
+::: {.callout-tip collapse="true"}
+## Exercise
+
+Maps to add:
+- https://cudl.lib.cam.ac.uk//iiif/PR-MAPS-BB-00053-00079-00001  
+- https://cudl.lib.cam.ac.uk//iiif/PR-ATLAS-00004-00057-00003  
+- https://cudl.lib.cam.ac.uk//iiif/MS-MAPS-MS-PLANS-00008  
+
+Or try an aerial photo?
+- https://cudl.lib.cam.ac.uk//iiif/PH-GEOGRAPHY-RC8GY-00021  
+
+:::
+
+## Exercise
+
+::: {.callout-caution collapse="true"}
+## To Do in Future
+
+Under Construction.
+:::
+
+ 

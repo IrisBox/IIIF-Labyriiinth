@@ -1,0 +1,39 @@
+---
+title: "About the IIIF Labyriiinth"
+subtitle: ""
+date: 2026-02-23
+date-modified: 2026-03-07
+bibliography: references.bib
+format:
+  pdf: default
+  html: default
+---
+![](images/Labyriiinth-300x300.png){fig-alt="The Labyriiinth Icon"}  
+
+## Intro
+
+What's different about the IIIF Labyriiinth? 
+
+It has been designed as a journey that begins with the creation of a self-reflective digital space that the learner can build their experience as they learn more about IIF. 
+
+By starting with the creation of this space, the learner has already begun using IIIF before they develop an understanding of what IIIF it is.
+
+in line with the concepts of labyrinth -[main principles...].  
+
+## Principles
+
+* Grounded in pedagogical theory - The IIIF Labyriiinth has been developed using theoretical approaches like Kolb's Learning Cycle [CITE!] and Wiggins and McTigue’s Backward Design [CITE!].
+* Designed to compliment the [Cambridge Information Literacy Framework](https://www.lib.cam.ac.uk/files/cambridge-information-literacy-framework.pdf)
+
+## Acknowledgements
+
+* The [IIIF Training](https://training.iiif.io/) resources developed by developed by Glen Robson for the IIIF Consortium 
+* [DISKAH - Digital Skills in Arts and Humanities Network](https://culturedigitalskills.org/), particularly they're workshop on [Accessing and Interacting with Multidimensional Media](https://culturedigitalskills.org/workshop-november/). 
+* The modules [LINK?] developed by Chris Gilman (UCLA), Chien-Ling Liu Zeleny (UCLA), and Ben Johnston (Princeton)
+
+## Theory
+
+That's not so scary is it?
+
+
+NEXT. 

@@ -1,0 +1,70 @@
+project:
+  type: book
+
+book:
+  title: "IIIF Labyriiinth"
+  favicon: logos/Labyriiinth-Favicon.png
+  author: "Andy Corrigan"
+  date: "3/9/2026"
+  navbar:
+    background: "#3f2c59"
+    search: true
+    right:
+      - text: "About"
+        menu:
+        - text: "Toolkit"
+          href: toolkit.qmd
+        - text: "Help"
+          href: help.qmd
+        - text: "About Andy"
+          href: andycorrigan.qmd  
+  sidebar: 
+    logo: 'logos/IIIF-Labyriiinth.png'
+  chapters:
+    - index.qmd
+    - Step-01.qmd
+    - Step-02.qmd
+    - Step-03.qmd
+    - Step-04.qmd
+    - Step-05.qmd
+    - Step-06.qmd
+    - Step-07.qmd
+    - Step-08.qmd
+    - Step-09.qmd
+    - Step-10.qmd
+    - summary.qmd
+    - references.qmd
+  appendices:
+    - about.qmd
+    - toolkit.qmd
+    - help.qmd
+    - andycorrigan.qmd
+
+  page-footer: 
+    border: false
+    background: "#3f2c59"
+    left: 
+      - icon: github
+        href: https://github.com/IrisBox
+    center: | 
+      IIIF Labyriiinth is an open educational resource by <a href="https://www.cdh.cam.ac.uk/about/people/andy-corrigan/">Andy Corrigan</a> as part of the <a href="https://www.cdh.cam.ac.uk/learning/methods-fellowships-2025-26/">CDH Methods Fellowship programme</a> 2025/26.<br>
+      
+      Original content in this work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/"><img alt="Creative Commons Licence" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/80x15.png"/></a><br>  
+
+    right: |
+      <br> 
+      [![](/Logos/CDH_Logo+Wordmark_Purple_White.png){width=60%}](https://www.cdh.cam.ac.uk/)<br>
+      <br> 
+
+bibliography: references.bib
+
+format:
+  html:
+    theme:
+      - lux
+      - brand
+  pdf:
+    documentclass: scrreprt
+
+
+
