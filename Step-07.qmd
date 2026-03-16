@@ -1,0 +1,31 @@
+---
+title: "Tree of Liiife"
+subtitle: ""
+date: 2026-02-23
+date-modified: last-modified
+author:
+  - name: Andy Corrigan
+    orcid: 0000-0002-3896-2489
+    email: cudl@lib.cam.ac.uk
+    url: https://www.cdh.cam.ac.uk/about/people/andy-corrigan/
+license: "CC BY-NC 4.0"
+bibliography: references.bib
+format:
+  pdf: default
+  html: default
+---
+![](images/Labyriiinth-300x300.png){fig-alt="The Labyriiinth Icon"}  
+
+## Learning Objective
+ILO Here... 
+
+::: {.callout-note collapse="true"}
+
+## Key Tools and Concepts
+Exhibit, IIIF Manifest
+
+:::
+
+## Summary
+
+This chapter is yet to be written... come back soon! 

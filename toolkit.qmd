@@ -1,0 +1,38 @@
+---
+title: "Toolkit"
+bibliography: references.bib
+---
+# Toolkit  {.unnumbered}
+
+A selection of tools, tips, tricks,
+
+## Finding IIIF Resources
+
+The IIIF Community have prepared [Guides to finding IIIF resources](https://iiif.io/guides/finding_resources/)
+
+## IIIF Workbench
+
+The ['IIIF Wokrbench'](https://workbench.gdmrdigital.com/) will help you keep your files organised.
+
+## MixTape
+
+The IIIF [MixTape](https://tripleyefish.com/mixtape/) is a handy way to collect your favourite IIIF resources.
+
+## Exhibit
+
+This is... https://exhibit.so/
+
+::: {.callout-caution collapse="true"}
+## To Do in Future
+
+We have local instance at https://exhibit.cdh.cam.ac.uk/, but seems to be having an issue creating new ones at the moment.  
+
+:::
+ 
+## IIIF Liiive
+
+Live collaborative annotation: https://liiive.now/  
+
+## IIIF Cookbooks
+
+The IIIF Community have developeda wide variety of ['Cookbooks'](https://iiif.io/api/cookbook/) to help you.

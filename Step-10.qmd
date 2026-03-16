@@ -1,0 +1,35 @@
+---
+title: "Exquisite Crops in the Theatre of Memory"
+subtitle: ""
+date: 2026-02-23
+date-modified: last-modified
+author:
+  - name: Andy Corrigan
+    orcid: 0000-0002-3896-2489
+    email: cudl@lib.cam.ac.uk
+    url: https://www.cdh.cam.ac.uk/about/people/andy-corrigan/
+license: "CC BY-NC 4.0"
+bibliography: references.bib
+format:
+  pdf: default
+  html: default
+---
+![](images/Labyriiinth-300x300.png){fig-alt="The Labyriiinth Icon"}  
+
+## Learning Objective
+Remember what you have learned in order to reflect on it and revaluate your understanding of interoperability.  
+
+::: {.callout-note collapse="true"}
+
+## Key Tools and Concepts
+Exhibit, IIIF Manifest
+
+:::
+
+## Summary
+
+## Exercise
+
+If we have time, We can go into the [Anaverse](Anaver.se)... 
+
+
