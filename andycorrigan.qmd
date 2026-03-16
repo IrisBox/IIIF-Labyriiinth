@@ -1,7 +1,0 @@
----
-title: "Andy Corrigan"
-bibliography: references.bib
----
-# About the author  {.unnumbered}
-
-A bit about me!

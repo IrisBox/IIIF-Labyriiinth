@@ -1,0 +1,665 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "IIIF Labyriiinth",
+    "section": "",
+    "text": "Preface\n\nImages have become ubiquitous in the digital age, and IIIF – the International Image Interoperability Framework – re-imagines what you can do with them, and a lot more besides.\n\n“To understand IIIF, you have to look with your hands and think with your eyes.”\nChris Gilman (Digital Curriculum Program Coordinator, UCLA)\n\nIIIF can be quite complex to explain, and often also to use, but some of the principles at play are strikingly simple. You don’t really need to worry too much about what IIIF means to start using it, you just need to know what you can do with it to begin understanding it. But at its most basic level, it means that you can access and, importantly, use a lot of digital content from hundreds of institutions across the world.\n\n\nWhy a labyrinth?\nLabyrinths are a great way to inspire and empower you to navigate as you start your own IIIF journey, they are a reflective space ‘in the spirit of good pedagogy’ (Sellers and Moss 2016, 9).\nThe IIIF Labyriiinth is an open educational resource for introducing and teaching IIIF Literacy, Methods and Tools. It has been constructed by Andy Corrigan as part of his CDH Methods Fellowship 2025/6.\nBelow is an example of a labyrinth\n\n\n\n\n\n\nSellers, Jan, and Bernard Moss. 2016. Learning with the Labyrinth : Creating Reflective Space in Higher Education / Edited by Jan Sellers, Bernard Moss. Palgrave Teaching and Learning. Basingstoke, Hampshire: Palgrave Macmillan.",
+    "crumbs": [
+      "Preface"
+    ]
+  },
+  {
+    "objectID": "Step-01.html",
+    "href": "Step-01.html",
+    "title": "1  Creating Reflective Space",
+    "section": "",
+    "text": "1.1 Learning Objective\nCreate virtual storage spaces in which to save your work, and a journal in order to be able to reflect on and share your learning journey in the IIIF Labyriiinth.",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Creating Reflective Space</span>"
+    ]
+  },
+  {
+    "objectID": "Step-01.html#learning-objective",
+    "href": "Step-01.html#learning-objective",
+    "title": "1  Creating Reflective Space",
+    "section": "",
+    "text": "NoteKey Tools and Concepts\n\n\n\n\n\nExhibit, IIIF Manifest, Mixtape, IIIF Workbench",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Creating Reflective Space</span>"
+    ]
+  },
+  {
+    "objectID": "Step-01.html#summary",
+    "href": "Step-01.html#summary",
+    "title": "1  Creating Reflective Space",
+    "section": "1.2 Summary",
+    "text": "1.2 Summary\nBefore you enter the IIIF Labyriiinth, we need to make sure you have prepared for your journey.\nWe will use a variety interactive reflective spaces on our journey, but first you are going to create some to stash your stuuff, and a digital journal in which you can record and reflect on what you learn.",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Creating Reflective Space</span>"
+    ]
+  },
+  {
+    "objectID": "Step-01.html#workbench",
+    "href": "Step-01.html#workbench",
+    "title": "1  Creating Reflective Space",
+    "section": "1.3 Workbench",
+    "text": "1.3 Workbench\nFirst thing’s first, if you haven’t already, sign-up for a GitHub account - it’s free and the IIIF Workbench will be able to store your IIIF files there so you can make use of them.\nNext, create your IIIF Workbench.\n\n\n\n\n\n\nTipExercise 1\n\n\n\n\n\nFollow these steps:\n1. Open the IIIF Workbench in a new browser tab.\n2. Login using your GutHub account.\n3. Click the ‘Authorize’ button.\n4. Click the ‘Create Project’ button.\n5. Give your project a unique name.\n6. You’ll come back and use this on jounrey in the IIIF Labyriiinth, so you might want to keep the tab open.",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Creating Reflective Space</span>"
+    ]
+  },
+  {
+    "objectID": "Step-01.html#mixtape",
+    "href": "Step-01.html#mixtape",
+    "title": "1  Creating Reflective Space",
+    "section": "1.4 MixTape",
+    "text": "1.4 MixTape\nNext, you might want to prepare a IIIF Mixtape for you jounrey. You can use this stash your favourite IIIF resources for later.\n\n\n\n\n\n\nTipExercise 2\n\n\n\n\n\nFollow these steps:\n1. In a new browser tab, open the IIIF MixTape.\n2. Click the ‘New Collection’ button.\n3. Enter a name for your Mixtape, enter your email address and tick the T’s&C’s.\n4. Click the ‘Create Collection’ button.\n5. You will shortly recieve an email with a link to your very own IIIF Mixtape - Keep it safe!",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Creating Reflective Space</span>"
+    ]
+  },
+  {
+    "objectID": "Step-01.html#journal",
+    "href": "Step-01.html#journal",
+    "title": "1  Creating Reflective Space",
+    "section": "1.5 Journal",
+    "text": "1.5 Journal\nThe last thing you need to prepare is your Journal. To create this, you are going to use a tool called Exhibit.\n\n\n\n\n\n\nTipExercise 3\n\n\n\n\n\nFollow these steps:\n1. In a new browser tab, go to: Exhibit.so.\n2. Click the ‘Create an Exhibit -&gt;’ button.\n3. Fill in the form using these options:\n- Template: Select ‘Slides’\n- Title: [Your Name]‘s IIIF Labyrinth Journal\n- Author: [Your Name]\n- Description:\n- Rights (optional):\n- Access: Select ’Public’ -&gt; You can password protect if you’d rather, but make sure you remember the password!\n- Allow Duplication: You can untick this if you want.\n- I’m not a robot: Tick\n- Ts&Cs: Tick\n4. Click ‘Create Exhibit’.\n\n\n\nNext, find a cover image!\n\n\n\n\n\n\nTipExercise 4\n\n\n\n\n\nFollow these steps:\n1. In another browser tab, navigate to this Mixtape of IIIF Examples.\n2. Pick one of the items that you think looks interesting, and click on the ‘IIIF’ logo for it.\n3. A page of ‘code’ will open. This is JSON, it might look scary but you only need the URL! Go ahead and ‘copy’ the URL.\n4. Go back to your ‘Exhibit’ tab, and click ‘+ Add Item’ button\n5. Paste the URL into the ‘Import’ box in the ‘+ Add Item’ dialogue window and click ‘Import’.\n6. You should see the item appear in a zoomable viewer on the right hand side of the screen. Find the image you want to use using the thumbnails. 7. On the left-hand side of the screen, click the ‘+’ button directly under your title/description box.\n8. Type: ‘This is my front cover image.’ -&gt; if you like, you can also add a brief sentence explaining what drew you to this image.\n9. Click the ‘tick’ button.\n\n\n\nNext, you need to ‘Share’ your journal: * Click the ‘Share’ button in the bottom left of the screen. * In the window you should see two ‘Copy’ buttons. The top one also has a drop-down option that can be set to ‘edit’ OR ‘view’. * You need to copy both of these URLs and save them somewhere you can easily access again. You could send yourself an email containing the links. For this lesson we want to share our journals, so navigate another browser tab to this GoogleDoc. * Once you have saved your links somewhere, you can close (‘X’) the ‘Share’ window.\n\n\n\n\n\n\nImportantImportant\n\n\n\nKeep this ‘Exhibit’ page open in a browser tab whilst we undertake the other exercises, and we will return to it and add more content later.\n\n\nYou can now take your first step and enter the IIIF Labyrinth…",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Creating Reflective Space</span>"
+    ]
+  },
+  {
+    "objectID": "Step-02.html",
+    "href": "Step-02.html",
+    "title": "2  The object of Inquiry",
+    "section": "",
+    "text": "2.1 Learning Objective",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>The object of Inquiry</span>"
+    ]
+  },
+  {
+    "objectID": "Step-02.html#learning-objective",
+    "href": "Step-02.html#learning-objective",
+    "title": "2  The object of Inquiry",
+    "section": "",
+    "text": "Annotate a IIIF Resource in order to understand that they can comprise of images and text.\n\nEvaluate the concept of interoperability in order to understand what IIIF is.\n\n\n\n\n\n\n\nNoteKey Tools and Concepts\n\n\n\n\n\nIIIF Manifest, Annotation",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>The object of Inquiry</span>"
+    ]
+  },
+  {
+    "objectID": "Step-02.html#summary",
+    "href": "Step-02.html#summary",
+    "title": "2  The object of Inquiry",
+    "section": "2.2 Summary",
+    "text": "2.2 Summary\nIt’s tricky to understand IIIF is until you have a go. This step will allow you to develop and reflect on what IIIF might mean.",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>The object of Inquiry</span>"
+    ]
+  },
+  {
+    "objectID": "Step-02.html#what-does-iiif-stand-for",
+    "href": "Step-02.html#what-does-iiif-stand-for",
+    "title": "2  The object of Inquiry",
+    "section": "2.3 What Does IIIF Stand For?",
+    "text": "2.3 What Does IIIF Stand For?\nFirst thing’s first. IIIF is pronounced “tripple-eye-eff”.\nThe next thing you need to know is what the IIIF ‘icon’/logo looks like:\n\nIIIF is an acronym for the International Image Interoperability Framework, but that’s probably the least important thing to know.\n\n\n\n\n\n\nNoteHint\n\n\n\n\n\nTo emphasise this, I often write it ‘IIIF (International Image Interoperability Framework)’ rather than ‘International Image Interoperability Framework (IIIF)’.\n\n\n\nLet’s chat about what really IIIF is:\n\nCommunity - one of the foremost things. IIIF is a huge global community of people and institutions working openly together.\n\nHigh quality digital objects of inquiry. One of the biggest benefits of digitisation is that it unlocks cultural heritage from museums and libraries.\n\nAPI’s (Application Programming Interfaces) … Oh no, not another acronym! Dont panic, just think of these as ‘standards’ - ways for computers to talk to each other.\n\nTools and methods that enable inquiry. IIIF is a completely different way to experience the digital landscape that begins to embody it.",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>The object of Inquiry</span>"
+    ]
+  },
+  {
+    "objectID": "Step-02.html#the-broad-and-narrow-iiif-way",
+    "href": "Step-02.html#the-broad-and-narrow-iiif-way",
+    "title": "2  The object of Inquiry",
+    "section": "2.4 The Broad and Narrow IIIF Way",
+    "text": "2.4 The Broad and Narrow IIIF Way\nIIIF isn’t very tangible is it?\nNo. But everyone perceives things differently because we all see and experience different small parts of it. (Popple, 2009, Encyclopaedia of Perception) So something complex like IIIF might be best understood through collective reflection on what we experience.\n‘The Broad and the Narrow Way’ is a Victorian poster that accompanied a lecture that taught a somewhat crude world view that human nature tended to be bad, and as a result the path to Heaven in the picture is so difficult and narrow that there are few people are travelling it.",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>The object of Inquiry</span>"
+    ]
+  },
+  {
+    "objectID": "Step-02.html#exercise",
+    "href": "Step-02.html#exercise",
+    "title": "2  The object of Inquiry",
+    "section": "2.5 Exercise",
+    "text": "2.5 Exercise\nWe’re going to use a real-time collaborative viewing tool called Liiive.\nTry accessing this Liiive room: - The Broad and Narrow Way\nSpend a few minutes just having a really good look at what’s in the image and thinking about the various things its comprised of.\nCan you find?: - A place on the path to damnation that isn’t necisarily a bad place? - The names of one of the people who had a role in creating it? - A steam train? - A lion? - A route through which you might change paths?\nWhat else can you see?\nIn the top-right, you’ll see different shapes of annotation tools: - Try adding different types of annotation to the things you’ve spotted - a “rectangle”/“polygon”, an “eliptical”, or a “path”, and include a comment with what you’ve noticed. - You might see someone else has beaten you too it - have a go at replying to an annotation that someone else has added.\nIn the top left you will find an option to export annotations. You can save them as an Annotation List or as a whole new ‘Manifest’. If you want, you can download these and save them in your Workbench. Or you can create a visual record of one of your annotations by taking a sscreenshot and uploading that image to your Workbench.\nWhat are you looking at, is it image/text/data/code? - If you want, you could add this resource to your journal using the following URL: https://cudl.lib.cam.ac.uk//iiif/PR-BROADSIDES-AA-00008-00023.json\nHow do you feel about code?",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>The object of Inquiry</span>"
+    ]
+  },
+  {
+    "objectID": "Step-03.html",
+    "href": "Step-03.html",
+    "title": "3  Seeing is Believing",
+    "section": "",
+    "text": "3.1 Learning Objective",
+    "crumbs": [
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Seeing is Believing</span>"
+    ]
+  },
+  {
+    "objectID": "Step-03.html#learning-objective",
+    "href": "Step-03.html#learning-objective",
+    "title": "3  Seeing is Believing",
+    "section": "",
+    "text": "Understand the Image API in order to know what a IIIF Image is.\n\nApply this knowledge in order to demonstrate you can retrieve a IIIF Image.\n\n\n\n\n\n\n\nNoteKey Tools and Concepts\n\n\n\n\n\nImage API,",
+    "crumbs": [
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Seeing is Believing</span>"
+    ]
+  },
+  {
+    "objectID": "Step-03.html#summary",
+    "href": "Step-03.html#summary",
+    "title": "3  Seeing is Believing",
+    "section": "3.2 Summary",
+    "text": "3.2 Summary\nOk, so IIIF looks pretty useful - This step will allow you to start making sense of it.\nYou are going to learn about the IIIF Image API, which is how to access and use an image made available through IIIF.",
+    "crumbs": [
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Seeing is Believing</span>"
+    ]
+  },
+  {
+    "objectID": "Step-03.html#theory",
+    "href": "Step-03.html#theory",
+    "title": "3  Seeing is Believing",
+    "section": "3.3 Theory",
+    "text": "3.3 Theory\nYou’ve probably heard a URL. This will turn your world upside down, or at least the way you see images on the internet.\nThink of an image as a map, and a URL as some co-ordinates on that map and instructions of how to find it.\nThis is an image of a page from a 1580 CE copy of a manuscript on Jain cosmology that was composed in the Prakrit language in the 14th century. Let’s say the digital image measures 1000 pixels wide by 500 pixels high.\n\n\n\nAn image of a page from a manuscript on Jain cosmology.\n\n\nOn the page, there is a diagram of the ‘Two and a Half Continents’ (Aḍhāīdvīpa), a representation of the Jain understanding of the earthly realm. It shows lots of things you might expect to see on a map - oceans, continents, rivers and mountains.\nIf I just want a square region showing only this diagram, I can use IIIF to get just the section I need by thinking of the pixels as co-ordinates.\n\n\n\nAn image of a page from a manuscript on Jain cosmology.\n\n\nThe top-left corner of the image is always (0,0) and the region is defined using the top-left (x,y) co-ordinate followed by the width and height of the region you want. So in this example, the co-ordinates for the region I want are (525,125,375,375).\nBut that’s not the only thing we can do. It’s also possible to use the IIIF Image API to resize and rotate the image, and request different qualities or formats. These can be numerical or sometimes use words like ‘full’ or ‘default’.\nThis image shows the original region, a reduction to 80%, an 80% reduction rotated 90°, and an 80% reduction rotated 180° in greyscale.\n\n\n\nAn image of a page from a manuscript on Jain cosmology.\n\n\nSo in this case, you really can turn the world upside down! Or make it greyscale if don’t want a colourful world…\nThe full URI syntax template looks like this:\n\n{scheme}://{server}{/prefix}/{identifier}/{region}/{size}/{rotation}/{quality}.{format}",
+    "crumbs": [
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Seeing is Believing</span>"
+    ]
+  },
+  {
+    "objectID": "Step-03.html#example",
+    "href": "Step-03.html#example",
+    "title": "3  Seeing is Believing",
+    "section": "3.4 Example",
+    "text": "3.4 Example\n\n\n\n\n\n\nCautionTo Do in Future\n\n\n\n\n\nBuild interactive OJS Viewer.",
+    "crumbs": [
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Seeing is Believing</span>"
+    ]
+  },
+  {
+    "objectID": "Step-03.html#exercise",
+    "href": "Step-03.html#exercise",
+    "title": "3  Seeing is Believing",
+    "section": "3.5 Exercise",
+    "text": "3.5 Exercise\n\nFind an image you want to use.\n\nIn a new tab, go to this Mixtape of IIIF Examples.\nChoose one that looks interesting.\nClick to the ‘Crop’ icon underneath the resource you’ve chosen.\n\nA new window will open that shows all the available images/pages as thumbnails.\nFind one you want to use and click on it.\nIn the box immediately above the thumbnails you will see a URL and a ‘copy’ button.\nClick the ‘copy’ button, open a new web-browser tab and paste it into the address/URL bar and press return/enter.\nYou should see your image load.\n\nTake a look at the URL and you’ll notice some familiar syntax.\nPlay with some of these values in the URL, hit enter, and see what happens.\nTry changing the following:\n\nFind a region you like\nChange the size\nRotate the image\nMake it grey or bitonal\n\nOnce you are happy with the way your image looks, record your results for your journal by taking a screenshot of you web-browser tab, making sure to include the image and its URL. Make ure you remember where your screenshot is saved, and you can uplaod this to your Workbench.\n\n\n\n\n\n\n\nTipTop Tip!\n\n\n\n\n\nWhen you are adding images to your own website (eg Drupal/Wordpress), you could use the IIIF Image API to add the image/crop you want by using these URLs instead of cropping and uploading a new image.\nHowever… there’s also a better way - you could embed a zooming IIIF viewer like Universal Viewer to show ANY IIIF resource in all its glory.\nThere’s a few hints and wrinkles when doing this - ie wathc out for ‘content state’ - regions in the embed code that can help/hinder. AND sometime the canvase ID is one out if the sequence starts with 0 instead of 1.",
+    "crumbs": [
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Seeing is Believing</span>"
+    ]
+  },
+  {
+    "objectID": "Step-04.html",
+    "href": "Step-04.html",
+    "title": "4  Code Breaking",
+    "section": "",
+    "text": "4.1 Learning Objective\nAnalyse a IIIF slide-puzzle in order to gain confidence working with “code”.",
+    "crumbs": [
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Code Breaking</span>"
+    ]
+  },
+  {
+    "objectID": "Step-04.html#learning-objective",
+    "href": "Step-04.html#learning-objective",
+    "title": "4  Code Breaking",
+    "section": "",
+    "text": "NoteKey Tools and Concepts\n\n\n\n\n\nImage API, Puzzle, Code",
+    "crumbs": [
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Code Breaking</span>"
+    ]
+  },
+  {
+    "objectID": "Step-04.html#summary",
+    "href": "Step-04.html#summary",
+    "title": "4  Code Breaking",
+    "section": "4.2 Summary",
+    "text": "4.2 Summary\nSo IIIF is looking a bit techie and a lot like code. This step will help you experience how dealing with code isn’t as scary as it first looks.",
+    "crumbs": [
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Code Breaking</span>"
+    ]
+  },
+  {
+    "objectID": "Step-04.html#activity",
+    "href": "Step-04.html#activity",
+    "title": "4  Code Breaking",
+    "section": "4.3 Activity",
+    "text": "4.3 Activity\n\n\n\n\n\n\nCautionTo Do in Future\n\n\n\n\n\nBuild/integrate interactive Puzzle Viewer.\n\n\n\n\n\nCan you solve the puzzle? Clicking a piece of the puzzle will move it to the empty space. Keep moving the pieces until the image is rearranged correctly.\nWhen you complete the puzzle, the empty space will disappear, revealing the whole image\nClick on the image again and you be taken to the manuscript this image is from on Cambridge Digital Library.\n\nThat’s not so scary is it?\nBelow you can see the code that generates the puzzle. Look at each line and you might recognise the IIIF Image regions. When you clicked the image tiles in the puzzle, all that was happening was that the line of code for the tile you clicked is moved to the ‘empty’ line. So you can also complete the puzzle by copy and pasting the chunks of code.\n&lt;table cellpadding='0' cellspacing='1'&gt;\n&lt;tr&gt;\n    &lt;td&gt;&lt;img src=\"https://images.lib.cam.ac.uk/iiif/MS-ADD-00864-000-00140.jp2/3371,2653,1016,1226/187,/0/default.jpg\"/&gt;&lt;/td&gt;\n    &lt;td&gt;&lt;img src=\"\"/&gt;&lt;/td&gt;\n    &lt;td&gt;&lt;img src=\"https://images.lib.cam.ac.uk/iiif/MS-ADD-00864-000-00140.jp2/3371,1427,1016,1226/187,/0/default.jpg\"/&gt;&lt;/td&gt;\n    &lt;td&gt;&lt;img src=\"https://images.lib.cam.ac.uk/iiif/MS-ADD-00864-000-00140.jp2/1339,2653,1016,1226/187,/0/default.jpg\"/&gt;&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n    &lt;td&gt;&lt;img src=\"https://images.lib.cam.ac.uk/iiif/MS-ADD-00864-000-00140.jp2/1339,1427,1016,1226/187,/0/default.jpg\"/&gt;&lt;/td&gt;\n    &lt;td&gt;&lt;img src=\"https://images.lib.cam.ac.uk/iiif/MS-ADD-00864-000-00140.jp2/4387,1427,1016,1226/187,/0/default.jpg\"/&gt;&lt;/td&gt;\n    &lt;td&gt;&lt;img src=\"https://images.lib.cam.ac.uk/iiif/MS-ADD-00864-000-00140.jp2/4387,201,1016,1226/187,/0/default.jpg\"/&gt;&lt;/td&gt;\n    &lt;td&gt;&lt;img src=\"https://images.lib.cam.ac.uk/iiif/MS-ADD-00864-000-00140.jp2/3371,201,1016,1226/187,/0/default.jpg\"/&gt;&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n    &lt;td&gt;&lt;img src=\"https://images.lib.cam.ac.uk/iiif/MS-ADD-00864-000-00140.jp2/2355,2653,1016,1226/187,/0/default.jpg\"/&gt;&lt;/td&gt;\n    &lt;td&gt;&lt;img src=\"https://images.lib.cam.ac.uk/iiif/MS-ADD-00864-000-00140.jp2/1339,201,1016,1226/187,/0/default.jpg\"/&gt;&lt;/td&gt;\n    &lt;td&gt;&lt;img src=\"https://images.lib.cam.ac.uk/iiif/MS-ADD-00864-000-00140.jp2/2355,201,1016,1226/187,/0/default.jpg\"/&gt;&lt;/td&gt;\n    &lt;td&gt;&lt;img src=\"https://images.lib.cam.ac.uk/iiif/MS-ADD-00864-000-00140.jp2/2355,1427,1016,1226/187,/0/default.jpg\"/&gt;&lt;/td&gt;\n&lt;/tr&gt;\n&lt;/table&gt;",
+    "crumbs": [
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Code Breaking</span>"
+    ]
+  },
+  {
+    "objectID": "Step-04.html#exercise",
+    "href": "Step-04.html#exercise",
+    "title": "4  Code Breaking",
+    "section": "4.4 Exercise",
+    "text": "4.4 Exercise\nCreate your own puzzle using this tool: https://www.tripleyefish.com/puzzle/builder.html\nUse the Mixtape of IIIF Examples to find another image you want to use and the ‘Cropping’ tool to pick a region and get your IIIF Image URL.\n[Or you can just use the same one as above: https://images.lib.cam.ac.uk/iiif/MS-ADD-00864-000-00140.jp2/1339,201,4066,3678/1200,/0/default.jpg]\nYou can adjust the number of colllums and tile/puzzle widths.\nYou can switch between looking at the code, and seeing the image tiles.\nHow do you feel about code now? Take a screenshot and save it for your journal by uploading it to your IIIF Workbench!",
+    "crumbs": [
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Code Breaking</span>"
+    ]
+  },
+  {
+    "objectID": "Step-05.html",
+    "href": "Step-05.html",
+    "title": "5  Comparing",
+    "section": "",
+    "text": "5.1 Learning Objective\nEvaluate different IIIF tools in order to know how to identify the right tools to use.",
+    "crumbs": [
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Comparing</span>"
+    ]
+  },
+  {
+    "objectID": "Step-05.html#learning-objective",
+    "href": "Step-05.html#learning-objective",
+    "title": "5  Comparing",
+    "section": "",
+    "text": "NoteKey Tools and Concepts\n\n\n\n\n\nComparison tools, IIIF Manifest, Mirador Viewer, Compariscope, Allmaps",
+    "crumbs": [
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Comparing</span>"
+    ]
+  },
+  {
+    "objectID": "Step-05.html#summary",
+    "href": "Step-05.html#summary",
+    "title": "5  Comparing",
+    "section": "5.2 Summary",
+    "text": "5.2 Summary\ntools ,..",
+    "crumbs": [
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Comparing</span>"
+    ]
+  },
+  {
+    "objectID": "Step-05.html#side-by-side-mirador",
+    "href": "Step-05.html#side-by-side-mirador",
+    "title": "5  Comparing",
+    "section": "5.3 Side-by-Side [Mirador]",
+    "text": "5.3 Side-by-Side [Mirador]\n\n\n\n\n\n\n\nTipExercise\n\n\n\n\n\nAdd these two resources to the Mirador Viewer: ʻAjāʼib al-makhlūqāt (MS Nn.3.74) https://cudl.lib.cam.ac.uk//iiif/MS-NN-00003-00074\nNuremberg Chronicle (Inc.0.A.7.2[888]) https://cudl.lib.cam.ac.uk//iiif/PR-INC-00000-A-00007-00002-00888\nTurn thumbnail strip on…\nOn the first, find page ‘13r’ On the second, find page ‘5v’\nNote one similarity, and one difference.\nTake a screenshot.",
+    "crumbs": [
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Comparing</span>"
+    ]
+  },
+  {
+    "objectID": "Step-05.html#layered-compariscope",
+    "href": "Step-05.html#layered-compariscope",
+    "title": "5  Comparing",
+    "section": "5.4 Layered [Compariscope]",
+    "text": "5.4 Layered [Compariscope]\n\n\n\n\n\n\n\nTipExercise\n\n\n\n\n\nImages to add: 1. https://images.lib.cam.ac.uk/iiif/MS-VANNECK-BOX-00005-A-FOLIO-00001-000-00005.jp2/full/full/0/default.jpg\n\nhttps://images.lib.cam.ac.uk/iiif/MS-VANNECK-BOX-00005-A-FOLIO-00001-000-00008.jp2/full/full/0/default.jpg\nhttps://images.lib.cam.ac.uk/iiif/MS-VANNECK-BOX-00005-A-FOLIO-00001-000-00010.jp2/full/full/0/default.jpg",
+    "crumbs": [
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Comparing</span>"
+    ]
+  },
+  {
+    "objectID": "Step-05.html#geo-spatial-allmaps",
+    "href": "Step-05.html#geo-spatial-allmaps",
+    "title": "5  Comparing",
+    "section": "5.5 Geo-Spatial [Allmaps]",
+    "text": "5.5 Geo-Spatial [Allmaps]\nNext, your going to try geo-referencing a map so that you can compare it to current mapping data.\nTool called Allmaps\n\n\n\n\n\n\nTipExercise\n\n\n\n\n\nMaps to add: - https://cudl.lib.cam.ac.uk//iiif/PR-MAPS-BB-00053-00079-00001\n- https://cudl.lib.cam.ac.uk//iiif/PR-ATLAS-00004-00057-00003\n- https://cudl.lib.cam.ac.uk//iiif/MS-MAPS-MS-PLANS-00008\nOr try an aerial photo? - https://cudl.lib.cam.ac.uk//iiif/PH-GEOGRAPHY-RC8GY-00021",
+    "crumbs": [
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Comparing</span>"
+    ]
+  },
+  {
+    "objectID": "Step-05.html#exercise-3",
+    "href": "Step-05.html#exercise-3",
+    "title": "5  Comparing",
+    "section": "5.6 Exercise",
+    "text": "5.6 Exercise\n\n\n\n\n\n\nCautionTo Do in Future\n\n\n\n\n\nUnder Construction.",
+    "crumbs": [
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Comparing</span>"
+    ]
+  },
+  {
+    "objectID": "Step-06.html",
+    "href": "Step-06.html",
+    "title": "6  Present and Correct",
+    "section": "",
+    "text": "6.1 Learning Objective",
+    "crumbs": [
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'>Present and Correct</span>"
+    ]
+  },
+  {
+    "objectID": "Step-06.html#learning-objective",
+    "href": "Step-06.html#learning-objective",
+    "title": "6  Present and Correct",
+    "section": "",
+    "text": "Understand the Presentation API in order to know how a digital representation of an object is constructed/structured.\n\nApply this knowledge in order to discover new resources.\n\n\n\n\n\n\n\nNoteKey Tools and Concepts\n\n\n\n\n\nExhibit, IIIF Manifest",
+    "crumbs": [
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'>Present and Correct</span>"
+    ]
+  },
+  {
+    "objectID": "Step-06.html#summary",
+    "href": "Step-06.html#summary",
+    "title": "6  Present and Correct",
+    "section": "6.2 Summary",
+    "text": "6.2 Summary\nSo you’ve gotten to grips with the IIIF Image API. Well Done! But how are individual images combined with metadata in order to present complete digital objects?",
+    "crumbs": [
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'>Present and Correct</span>"
+    ]
+  },
+  {
+    "objectID": "Step-06.html#theory",
+    "href": "Step-06.html#theory",
+    "title": "6  Present and Correct",
+    "section": "6.3 Theory",
+    "text": "6.3 Theory\nWhat is a IIIF Manifest and what are its components?\n\nBlue = Image data - using the Image API.\nRed = The structure: Title/metadata/sequence - using the Presentation API.\n\n\n\n\n\n\n\nflowchart TD\n  A[Manifest] --&gt; B[Sequence]\n  B --&gt; C{Canvas}\n  C --&gt; D(Content A One)\n  C --&gt; E(Content B Two)\n\n\n\n\n\n\nHow do I find IIIF Manifests? Look for the logo, or their sometimes hidden in ‘use’ or ‘share’ options. It’s tricky because everyone does it slightly differentl, and often with good reason. So learning how to find them is a skill.\nThe IIIF Community have prepared Guides to finding IIIF resources",
+    "crumbs": [
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'>Present and Correct</span>"
+    ]
+  },
+  {
+    "objectID": "Step-06.html#exercise",
+    "href": "Step-06.html#exercise",
+    "title": "6  Present and Correct",
+    "section": "6.4 Exercise",
+    "text": "6.4 Exercise\nPick one of the Guides to finding IIIF resources and see if you can find a manifest for a IIIF resource.\nEdit a manifest: Using the Digirati Manifest Editor.",
+    "crumbs": [
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'>Present and Correct</span>"
+    ]
+  },
+  {
+    "objectID": "Step-07.html",
+    "href": "Step-07.html",
+    "title": "7  Tree of Liiife",
+    "section": "",
+    "text": "7.1 Learning Objective\nILO Here…",
+    "crumbs": [
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'>Tree of Liiife</span>"
+    ]
+  },
+  {
+    "objectID": "Step-07.html#learning-objective",
+    "href": "Step-07.html#learning-objective",
+    "title": "7  Tree of Liiife",
+    "section": "",
+    "text": "NoteKey Tools and Concepts\n\n\n\n\n\nExhibit, IIIF Manifest",
+    "crumbs": [
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'>Tree of Liiife</span>"
+    ]
+  },
+  {
+    "objectID": "Step-07.html#summary",
+    "href": "Step-07.html#summary",
+    "title": "7  Tree of Liiife",
+    "section": "7.2 Summary",
+    "text": "7.2 Summary\nThis chapter is yet to be written… come back soon!",
+    "crumbs": [
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'>Tree of Liiife</span>"
+    ]
+  },
+  {
+    "objectID": "Step-08.html",
+    "href": "Step-08.html",
+    "title": "8  Drawing Conclusions",
+    "section": "",
+    "text": "8.1 Learning Objective\nUnderstand the limitiatons of automation in order to be able to demonstrate your digital literacy.",
+    "crumbs": [
+      "<span class='chapter-number'>8</span>  <span class='chapter-title'>Drawing Conclusions</span>"
+    ]
+  },
+  {
+    "objectID": "Step-08.html#learning-objective",
+    "href": "Step-08.html#learning-objective",
+    "title": "8  Drawing Conclusions",
+    "section": "",
+    "text": "NoteKey Tools and Concepts\n\n\n\n\n\nExhibit, IIIF Manifest",
+    "crumbs": [
+      "<span class='chapter-number'>8</span>  <span class='chapter-title'>Drawing Conclusions</span>"
+    ]
+  },
+  {
+    "objectID": "Step-08.html#summary",
+    "href": "Step-08.html#summary",
+    "title": "8  Drawing Conclusions",
+    "section": "8.2 Summary",
+    "text": "8.2 Summary\nYou can input IIIF manifests into lots of different tools, including ones that can apply machine learning and computer vision (yes - AI!).",
+    "crumbs": [
+      "<span class='chapter-number'>8</span>  <span class='chapter-title'>Drawing Conclusions</span>"
+    ]
+  },
+  {
+    "objectID": "Step-08.html#exercise",
+    "href": "Step-08.html#exercise",
+    "title": "8  Drawing Conclusions",
+    "section": "8.3 Exercise",
+    "text": "8.3 Exercise\nHave a go at using a IIIF resource to undertake some automated analysis.\nUsing a IIIF Illustration Detector.\n\nEnter this manifest: https://cudl.lib.cam.ac.uk//iiif/PR-FH-00910-00083-00098\n\nClick ‘Load Manifest’.\n\nSet the ‘Confidence Threshold’ to 85%.\n\nTick ‘Show only illustrated pages’, and Click ‘Classify’.\n\nOnce it’s finished, click ‘View All Pages’ and you will be able to look through just the pages with illustrations on. Handy!\n\nLet’s try that again with a different resource…\nThis time, enter this manifest: https://cudl.lib.cam.ac.uk//iiif/MS-OR-00770\nWhat do you notice?\nWhy do you think this is?\nAdd the two manifests to you journal and include your answers.\nThis exercise used an easy to use tool, but you can apply all sorts of AI models to do different things - even transcribe handwriting! There’s a tool for that: Transkribus.\nBut to really get into AI models, you might be better off learning to code using Python/R.",
+    "crumbs": [
+      "<span class='chapter-number'>8</span>  <span class='chapter-title'>Drawing Conclusions</span>"
+    ]
+  },
+  {
+    "objectID": "Step-09.html",
+    "href": "Step-09.html",
+    "title": "9  Your Way",
+    "section": "",
+    "text": "9.1 Learning Objective\nCreate your own IIIF Resource in order to share the results of your journey.",
+    "crumbs": [
+      "<span class='chapter-number'>9</span>  <span class='chapter-title'>Your Way</span>"
+    ]
+  },
+  {
+    "objectID": "Step-09.html#learning-objective",
+    "href": "Step-09.html#learning-objective",
+    "title": "9  Your Way",
+    "section": "",
+    "text": "NoteKey Tools and Concepts\n\n\n\n\n\nExhibit, IIIF Manifest",
+    "crumbs": [
+      "<span class='chapter-number'>9</span>  <span class='chapter-title'>Your Way</span>"
+    ]
+  },
+  {
+    "objectID": "Step-09.html#summary",
+    "href": "Step-09.html#summary",
+    "title": "9  Your Way",
+    "section": "9.2 Summary",
+    "text": "9.2 Summary\nCan you turn your screenshots and manifests into items that you can add to your journal?",
+    "crumbs": [
+      "<span class='chapter-number'>9</span>  <span class='chapter-title'>Your Way</span>"
+    ]
+  },
+  {
+    "objectID": "Step-10.html",
+    "href": "Step-10.html",
+    "title": "10  Exquisite Crops in the Theatre of Memory",
+    "section": "",
+    "text": "10.1 Learning Objective\nRemember what you have learned in order to reflect on it and revaluate your understanding of interoperability.",
+    "crumbs": [
+      "<span class='chapter-number'>10</span>  <span class='chapter-title'>Exquisite Crops in the Theatre of Memory</span>"
+    ]
+  },
+  {
+    "objectID": "Step-10.html#learning-objective",
+    "href": "Step-10.html#learning-objective",
+    "title": "10  Exquisite Crops in the Theatre of Memory",
+    "section": "",
+    "text": "NoteKey Tools and Concepts\n\n\n\n\n\nExhibit, IIIF Manifest",
+    "crumbs": [
+      "<span class='chapter-number'>10</span>  <span class='chapter-title'>Exquisite Crops in the Theatre of Memory</span>"
+    ]
+  },
+  {
+    "objectID": "Step-10.html#summary",
+    "href": "Step-10.html#summary",
+    "title": "10  Exquisite Crops in the Theatre of Memory",
+    "section": "10.2 Summary",
+    "text": "10.2 Summary",
+    "crumbs": [
+      "<span class='chapter-number'>10</span>  <span class='chapter-title'>Exquisite Crops in the Theatre of Memory</span>"
+    ]
+  },
+  {
+    "objectID": "Step-10.html#exercise",
+    "href": "Step-10.html#exercise",
+    "title": "10  Exquisite Crops in the Theatre of Memory",
+    "section": "10.3 Exercise",
+    "text": "10.3 Exercise\nIf we have time, We can go into the Anaverse…",
+    "crumbs": [
+      "<span class='chapter-number'>10</span>  <span class='chapter-title'>Exquisite Crops in the Theatre of Memory</span>"
+    ]
+  },
+  {
+    "objectID": "summary.html",
+    "href": "summary.html",
+    "title": "11  Summary",
+    "section": "",
+    "text": "In summary, this book has no content whatsoever.",
+    "crumbs": [
+      "<span class='chapter-number'>11</span>  <span class='chapter-title'>Summary</span>"
+    ]
+  },
+  {
+    "objectID": "references.html",
+    "href": "references.html",
+    "title": "References",
+    "section": "",
+    "text": "Sellers, Jan, and Bernard Moss. 2016. Learning with the Labyrinth :\nCreating Reflective Space in Higher Education / Edited by Jan Sellers,\nBernard Moss. Palgrave Teaching and Learning. Basingstoke,\nHampshire: Palgrave Macmillan.",
+    "crumbs": [
+      "References"
+    ]
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "Appendix A — About the IIIF Labyriiinth",
+    "section": "",
+    "text": "A.1 Intro\nWhat’s different about the IIIF Labyriiinth?\nIt has been designed as a journey that begins with the creation of a self-reflective digital space that the learner can build their experience as they learn more about IIF.\nBy starting with the creation of this space, the learner has already begun using IIIF before they develop an understanding of what IIIF it is.\nin line with the concepts of labyrinth -[main principles…].",
+    "crumbs": [
+      "Appendices",
+      "<span class='chapter-number'>A</span>  <span class='chapter-title'>About the IIIF Labyriiinth</span>"
+    ]
+  },
+  {
+    "objectID": "about.html#principles",
+    "href": "about.html#principles",
+    "title": "Appendix A — About the IIIF Labyriiinth",
+    "section": "A.2 Principles",
+    "text": "A.2 Principles\n\nGrounded in pedagogical theory - The IIIF Labyriiinth has been developed using theoretical approaches like Kolb’s Learning Cycle [CITE!] and Wiggins and McTigue’s Backward Design [CITE!].\nDesigned to compliment the Cambridge Information Literacy Framework",
+    "crumbs": [
+      "Appendices",
+      "<span class='chapter-number'>A</span>  <span class='chapter-title'>About the IIIF Labyriiinth</span>"
+    ]
+  },
+  {
+    "objectID": "about.html#acknowledgements",
+    "href": "about.html#acknowledgements",
+    "title": "Appendix A — About the IIIF Labyriiinth",
+    "section": "A.3 Acknowledgements",
+    "text": "A.3 Acknowledgements\n\nThe IIIF Training resources developed by developed by Glen Robson for the IIIF Consortium\nDISKAH - Digital Skills in Arts and Humanities Network, particularly they’re workshop on Accessing and Interacting with Multidimensional Media.\nThe modules [LINK?] developed by Chris Gilman (UCLA), Chien-Ling Liu Zeleny (UCLA), and Ben Johnston (Princeton)",
+    "crumbs": [
+      "Appendices",
+      "<span class='chapter-number'>A</span>  <span class='chapter-title'>About the IIIF Labyriiinth</span>"
+    ]
+  },
+  {
+    "objectID": "about.html#theory",
+    "href": "about.html#theory",
+    "title": "Appendix A — About the IIIF Labyriiinth",
+    "section": "A.4 Theory",
+    "text": "A.4 Theory\nThat’s not so scary is it?\nNEXT.",
+    "crumbs": [
+      "Appendices",
+      "<span class='chapter-number'>A</span>  <span class='chapter-title'>About the IIIF Labyriiinth</span>"
+    ]
+  },
+  {
+    "objectID": "toolkit.html",
+    "href": "toolkit.html",
+    "title": "Appendix B — Toolkit",
+    "section": "",
+    "text": "Toolkit\nA selection of tools, tips, tricks,",
+    "crumbs": [
+      "Appendices",
+      "<span class='chapter-number'>B</span>  <span class='chapter-title'>Toolkit</span>"
+    ]
+  },
+  {
+    "objectID": "toolkit.html#finding-iiif-resources",
+    "href": "toolkit.html#finding-iiif-resources",
+    "title": "Appendix B — Toolkit",
+    "section": "B.1 Finding IIIF Resources",
+    "text": "B.1 Finding IIIF Resources\nThe IIIF Community have prepared Guides to finding IIIF resources",
+    "crumbs": [
+      "Appendices",
+      "<span class='chapter-number'>B</span>  <span class='chapter-title'>Toolkit</span>"
+    ]
+  },
+  {
+    "objectID": "toolkit.html#iiif-workbench",
+    "href": "toolkit.html#iiif-workbench",
+    "title": "Appendix B — Toolkit",
+    "section": "B.2 IIIF Workbench",
+    "text": "B.2 IIIF Workbench\nThe ‘IIIF Wokrbench’ will help you keep your files organised.",
+    "crumbs": [
+      "Appendices",
+      "<span class='chapter-number'>B</span>  <span class='chapter-title'>Toolkit</span>"
+    ]
+  },
+  {
+    "objectID": "toolkit.html#mixtape",
+    "href": "toolkit.html#mixtape",
+    "title": "Appendix B — Toolkit",
+    "section": "B.3 MixTape",
+    "text": "B.3 MixTape\nThe IIIF MixTape is a handy way to collect your favourite IIIF resources.",
+    "crumbs": [
+      "Appendices",
+      "<span class='chapter-number'>B</span>  <span class='chapter-title'>Toolkit</span>"
+    ]
+  },
+  {
+    "objectID": "toolkit.html#exhibit",
+    "href": "toolkit.html#exhibit",
+    "title": "Appendix B — Toolkit",
+    "section": "B.4 Exhibit",
+    "text": "B.4 Exhibit\nThis is… https://exhibit.so/\n\n\n\n\n\n\nCautionTo Do in Future\n\n\n\n\n\nWe have local instance at https://exhibit.cdh.cam.ac.uk/, but seems to be having an issue creating new ones at the moment.",
+    "crumbs": [
+      "Appendices",
+      "<span class='chapter-number'>B</span>  <span class='chapter-title'>Toolkit</span>"
+    ]
+  },
+  {
+    "objectID": "toolkit.html#iiif-liiive",
+    "href": "toolkit.html#iiif-liiive",
+    "title": "Appendix B — Toolkit",
+    "section": "B.5 IIIF Liiive",
+    "text": "B.5 IIIF Liiive\nLive collaborative annotation: https://liiive.now/",
+    "crumbs": [
+      "Appendices",
+      "<span class='chapter-number'>B</span>  <span class='chapter-title'>Toolkit</span>"
+    ]
+  },
+  {
+    "objectID": "toolkit.html#iiif-cookbooks",
+    "href": "toolkit.html#iiif-cookbooks",
+    "title": "Appendix B — Toolkit",
+    "section": "B.6 IIIF Cookbooks",
+    "text": "B.6 IIIF Cookbooks\nThe IIIF Community have developeda wide variety of ‘Cookbooks’ to help you.",
+    "crumbs": [
+      "Appendices",
+      "<span class='chapter-number'>B</span>  <span class='chapter-title'>Toolkit</span>"
+    ]
+  },
+  {
+    "objectID": "help.html",
+    "href": "help.html",
+    "title": "Appendix C — Help",
+    "section": "",
+    "text": "Help - The Book of Hints and Wrinkles\nA place for a few handy pointers…",
+    "crumbs": [
+      "Appendices",
+      "<span class='chapter-number'>C</span>  <span class='chapter-title'>Help</span>"
+    ]
+  },
+  {
+    "objectID": "andycorrigan.html",
+    "href": "andycorrigan.html",
+    "title": "Appendix D — Andy Corrigan",
+    "section": "",
+    "text": "About the author\nA bit about me!",
+    "crumbs": [
+      "Appendices",
+      "<span class='chapter-number'>D</span>  <span class='chapter-title'>Andy Corrigan</span>"
+    ]
+  }
+]

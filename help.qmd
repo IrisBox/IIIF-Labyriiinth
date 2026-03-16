@@ -1,7 +1,0 @@
----
-title: "Help"
-bibliography: references.bib
----
-# Help - The Book of Hints and Wrinkles  {.unnumbered}
-
-A place for a few handy pointers... 
